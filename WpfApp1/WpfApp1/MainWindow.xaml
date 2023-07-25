@@ -1,0 +1,109 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        Keyboard.KeyDown="OnKeyDownHandler"
+        mc:Ignorable="d"
+        Title="MainWindow" MouseLeftButtonDown="Window_MouseLeftButtonDown" WindowStyle="None" AllowsTransparency="True"
+        Background="Transparent" Height="624">
+    <Window.Resources>
+        <RoutedUICommand x:Key="cmd1"></RoutedUICommand>
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="{StaticResource cmd1}" Executed="buttonDT_Click"></CommandBinding>
+    </Window.CommandBindings>
+    <Window.InputBindings>
+        <KeyBinding  Key="F5" Command="{StaticResource cmd1}" ></KeyBinding>
+    </Window.InputBindings>
+    <Canvas Canvas.Left="10" Canvas.Top="47" Height="600" Width="832">
+        <Path Stroke="gray" StrokeThickness="2" Name="UIPath" Height="600.568" Stretch="Fill" Width="841.928" Canvas.Left="0.072" Canvas.Top="-37.784" >
+            <Path.Fill>
+
+                <ImageBrush ImageSource="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\superman.jpg"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="0,50">
+                        <LineSegment Point="0,350"/>
+                        <LineSegment Point="274,550"/>
+                        <LineSegment Point="550,350"/>
+                        <LineSegment Point="550,50"/>
+                        <ArcSegment Size="100,20" RotationAngle="180" IsLargeArc="True" SweepDirection="Counterclockwise" Point=" 0,50"/>
+                        <LineSegment Point="0,50"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <DockPanel Canvas.Left="10" Canvas.Top="12" Width="812" Height="239">
+            <ToolBar DockPanel.Dock="Top">
+                <Button Name="new" ToolTip="New" Click="new_Click" >
+                    <Image Source="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\NN.jpg" Width="16" Height="16" />
+                </Button>
+                <Separator />
+                <Button Name="saveas" ToolTip="save as" Click="saveas_Click">
+                    <Image Source="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\saveas.jpg" Width="16" Height="16" />
+                </Button>
+                <Separator />
+                <Button Name="open" ToolTip="open" Click="open_Click">
+                    <Image Source="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\open.jpg" Width="16" Height="16" />
+
+                </Button>
+                <Separator />
+                <Button Name="save" ToolTip="Save" Click="save_Click">
+
+                    <Image Source="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\save.jpg" Width="16" Height="16" />
+
+                </Button>
+                <Separator />
+                <ToggleButton Command="EditingCommands.ToggleBold" Name="btnBold"
+                              Content="B"/>
+                <Separator />
+                <ToggleButton Command="EditingCommands.ToggleItalic" Name="btnItalic" Content="I"/>
+                <Separator />
+                <ToggleButton Command="EditingCommands.ToggleUnderline" Name="btnUnderline" Content="U"/>
+                <Separator/>
+                <ComboBox Name="cmbFontFamily" Width="150" SelectionChanged="cmbFontFamily_SelectionChanged"/>
+                <Separator/>
+                <ComboBox Name="cmbFontSize" Width="70" IsEditable="True" TextBoxBase.TextChanged="cmbFontSize_TextChanged"   />
+                <Separator/>
+                <ComboBox x:Name="cmbFontColor" Width="100" SelectionChanged="cmbFontColor_SelectionChanged"  >
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Rectangle Fill="{Binding Name}" Width="16" Height="16" Margin="0,2,5,2" />
+                                <TextBlock Text="{Binding Name}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
+                <Button x:Name="buttonDT" VerticalAlignment="Center"  Click="buttonDT_Click" Height="20" Width="20" Margin="10,0,0,0" >
+                    <Image Height="14" Source="C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\dt.jpg" Width="14" >
+
+                    </Image>
+                </Button>
+                <TextBox x:Name="find"  TextWrapping="Wrap" Text="Find" Foreground="Gray" VerticalAlignment="Center" Width="100"  />
+                <TextBox x:Name="replace"   TextWrapping="Wrap" Text="Replace" Foreground="Gray" VerticalAlignment="Center" Width="100"/>
+
+                <Button x:Name="FRButton" Content="Replace"   VerticalAlignment="Top" Width="58" Click="FRButton_Click" />
+                <Separator />
+            </ToolBar>
+            <RichTextBox Name="rtbEditor"  Width="780" Margin="0,0,0,-61" SelectionChanged="rtbEditor_SelectionChanged">
+                <FlowDocument/>
+            </RichTextBox>
+        </DockPanel>
+        <StatusBar Height="25" Canvas.Left="32" Canvas.Top="323" Width="680">
+            <StatusBarItem Background="#FFDBECE7" Width="196">
+                <TextBox x:Name="textBox" IsReadOnly="True" TextWrapping="Wrap" Text="" Width="100" BorderBrush="Transparent" Background="Transparent"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem Width="413" Background="#FFDBECE7">
+                <TextBlock Name="lblCursorPosition"  Width="150"/>
+            </StatusBarItem>
+        </StatusBar>
+        <Button Name="btnClose" Click="btnClose_Click"  Content="Close" Canvas.Left="738" Canvas.Top="323" Width="62" Height="25"/>
+    </Canvas>
+</Window>
+
+

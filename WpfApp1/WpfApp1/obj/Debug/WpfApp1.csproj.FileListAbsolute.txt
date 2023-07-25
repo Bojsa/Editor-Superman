@@ -1,0 +1,90 @@
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Stefan\Downloads\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\HCI PSI PZ2 - start\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\SupEditor PZ2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Bojsa\Desktop\SupEditor PZ2 v2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\FTN-PR\Godina 3\HCI\Vezbe\SupEditor PZ2 final\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
